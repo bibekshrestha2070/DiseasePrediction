@@ -1,0 +1,49 @@
+Symptomlist
+fever,vomiting,,
+Disease,Probability scores
+influenza,25.0
+gastritis,25.0
+dehydration,50.0
+hypothyroidism,25.0
+hernia hiatal,25.0
+fibroid tumor,25.0
+sepsis (invertebrate),25.0
+tricuspid valve insufficiency,50.0
+malignant tumor of colon,25.0
+lymphoma,25.0
+thrombus,25.0
+chronic kidney failure,50.0
+infection urinary tract,25.0
+tachycardia sinus,25.0
+decubitus ulcer,25.0
+Alzheimer's disease,25.0
+hepatitis,50.0
+adhesion,25.0
+biliary calculus,25.0
+acquired immuno-deficiency syndrome,50.0
+diverticulitis,50.0
+spasm bronchial,50.0
+ulcer peptic,25.0
+osteomyelitis,25.0
+pyelonephritis,50.0
+pancreatitis,25.0
+mitral valve insufficiency,25.0
+thrombocytopaenia,25.0
+exanthema,25.0
+infection,25.0
+cellulitis,25.0
+lymphatic diseases,25.0
+gastroenteritis,25.0
+,25.0
+colitis,50.0
+pneumonia,25.0
+pneumonia aspiration,25.0
+bronchitis,25.0
+upper respiratory infection,25.0
+dementia,25.0
+ketoacidosis diabetic,25.0
+suicide attempt,25.0
+bacteremia,50.0
+delirium,25.0
+melanoma,50.0
+diabetes,25.0
